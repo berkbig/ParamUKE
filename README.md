@@ -10,6 +10,8 @@ Developed on my laptop and definitely stretches what OpenSCAD is capable of in t
 That fret code fo those who are interested:
 
 //Calculate Fret Positions from ScaleLength (String Distance from Nut to Saddle)
+
 FretMagic = pow(0.5,1/12);
+
 FretPositions=[for(fret=0,position=ScaleLength;fret<=FretCount;fret=fret+1,position=position*FretMagic) position];
 
