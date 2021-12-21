@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50mm"
+   height="100mm"
+   viewBox="0 0 50 100"
+   version="1.1"
+   id="svg1005"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="SoundHole.svg">
+  <defs
+     id="defs999" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1624"
+     inkscape:window-height="1228"
+     inkscape:window-x="38"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1002">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path35"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:644.911px;line-height:1.25;font-family:'Microsoft Himalaya';-inkscape-font-specification:'Microsoft Himalaya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:1.59003"
+       d="m 26.433159,35.233194 0.632909,4.633886 q -8.830527,5.59875 -12.787332,14.300122 -4.092059,8.729253 -2.935365,17.198082 0.24007,1.757682 1.112756,3.056395 0.715609,1.166798 1.527131,0.999531 0.676267,-0.139391 2.757332,-2.211207 2.081065,-2.071823 4.65088,-2.601506 4.328111,-0.892102 7.447845,1.58633 3.006304,2.666101 3.748335,8.098934 0.34919,2.556625 -0.270216,5.14861 -0.619408,2.591985 -1.888955,4.496538 -1.38297,2.09222 -3.280826,3.46913 -2.011285,1.564572 -4.445847,2.066378 -2.975576,0.613319 -5.89889,-0.427011 -2.923314,-1.04033 -5.502034,-3.630273 Q 8.743987,88.986978 6.9592705,85.083359 5.039301,81.207626 4.3409188,76.094368 2.835033,65.068909 8.0395578,54.303193 13.108829,43.565356 26.433159,35.233194 Z m -8.59095,27.502981 v -4.698668 q 9.462956,-3.726532 14.537295,-11.503638 5.211482,-7.777111 5.211482,-16.364329 2e-6,-1.782258 -0.685721,-3.240462 -0.548576,-1.296185 -1.371442,-1.296188 -0.685723,1e-6 -3.017175,1.62023 -2.331453,1.620234 -4.937195,1.620232 -4.388616,4e-6 -7.131503,-3.078436 -2.605741,-3.240465 -2.605741,-8.749246 0,-2.592369 0.96001,-5.022716 0.96001,-2.4303456 2.468597,-4.0505761 1.645731,-1.7822542 3.702896,-2.7543927 2.194309,-1.1341613 4.662906,-1.1341614 3.017174,-3e-7 5.760062,1.6202312 2.742884,1.6202305 4.937191,4.698668 2.194311,2.916416 3.428608,7.129017 1.371444,4.212596 1.371444,9.397336 0,11.179593 -6.582928,20.738955 -6.44578,9.559354 -20.708786,15.068144 z" />
+  </g>
+</svg>
