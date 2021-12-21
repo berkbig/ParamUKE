@@ -7,11 +7,15 @@ Pretty much every part of the uke is parameterisable to your taste. Several part
 
 Developed on my laptop and definitely stretches what OpenSCAD is capable of in that context. I added a draft mode which reduces the smoothing you'll want on in dev and you probably wnat to toggle on only the components you are actively editing too.
 
-That fret code fo those who are interested:
+That fret code for those who are interested:
 
-//Calculate Fret Positions from ScaleLength (String Distance from Nut to Saddle)
+```
+    //Calculate Fret Positions from ScaleLength (String Distance from Nut to Saddle)
+    FretMagic = pow(0.5,1/12);
+    FretPositions=[for(fret=0,position=ScaleLength;fret<=FretCount;fret=fret+1,position=position*FretMagic) position];
+```
 
-FretMagic = pow(0.5,1/12);
-
-FretPositions=[for(fret=0,position=ScaleLength;fret<=FretCount;fret=fret+1,position=position*FretMagic) position];
+![OpenSCAD Screenshot](Examples/ParametricUke.png "OpenSCAD")
+![OpenSCAD Screenshot](Examples/PrintedUke.jpg "Printed Example")
+![OpenSCAD Screenshot](Examples/StyledUke.jpg "Fully Styled Example")
 
