@@ -1,7 +1,7 @@
 # ParamUKE
 OpenSCAD Parameterised ukelele model
 
-Sterted out as a fun project to see if I could use the surprisingly simple maths behind fretboard placement to make a playable uke from code. Then I got overexcited...
+Started out as a fun project to see if I could use the surprisingly simple maths behind fretboard placement to make a playable uke from code. Then I got overexcited...
 
 Pretty much every part of the uke is parameterised to you taste. Several parts accept an SVG image for heavy customisation. Images supplied here are very much placeholder (the only one of these I've ever printed to a high quality used some images that the IP holder would not appreciate me sharing :) )
 
